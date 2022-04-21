@@ -1,14 +1,4 @@
-"""
- @file   common.py
- @brief  Commonly used script
- @author Toshiki Nakamura, Yuki Nikaido, and Yohei Kawaguchi (Hitachi Ltd.)
- Copyright (C) 2020 Hitachi, Ltd. All right reserved.
-"""
 
-########################################################################
-# import python-library
-########################################################################
-# default
 import glob
 import argparse
 import sys
